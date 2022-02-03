@@ -10,7 +10,7 @@
     <a href="https://t.me/YukkiSupport"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# Boa Hancock Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
