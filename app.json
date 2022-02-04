@@ -60,12 +60,12 @@
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "2034641799",
       "required": true
     },
     "STRING_SESSION1": {
       "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-      "value": "",
+      "value": "BQC5onnzpDJkR3rp7g9i9_dksbn8IDEY0iA2ov2fqNsNpV8upg02FjRu8-wrKUXQUE2cJl3iLwoxL51oYXASvoGFUQZTe8OVV0dG5a0VtlnN9oS-xaGLIzNe1wx417bdf-OmsdUE9PzMXCA1KncrjQL9TweuxLFZ3LSxGiSuaZC1KO8lHVNuu3cWxaOIuFTNy07gJ9VYmr3Kighn3S0ZADRGvf1T65ptUZEDALz5EWQSfqN1xVbvao5sGXWoLYyrgzLPfoKmtnqtgdXQdZ0SmFyaogDk298xCY7yBF5mSP_hGdmTxY3IkM62aAUaM1jVvgOluRVc_nuFySiL6_Lp8pu1eUYrhwA",
       "required": true
     },
     "STRING_SESSION2": {
@@ -110,7 +110,7 @@
     },
     "LOG_SESSION": {
       "description": "A Pyrogram String Session for LOGGING or u can also add STRING_SESSION1 Also.",
-      "value": "",
+      "value": "BQC5onnzpDJkR3rp7g9i9_dksbn8IDEY0iA2ov2fqNsNpV8upg02FjRu8-wrKUXQUE2cJl3iLwoxL51oYXASvoGFUQZTe8OVV0dG5a0VtlnN9oS-xaGLIzNe1wx417bdf-OmsdUE9PzMXCA1KncrjQL9TweuxLFZ3LSxGiSuaZC1KO8lHVNuu3cWxaOIuFTNy07gJ9VYmr3Kighn3S0ZADRGvf1T65ptUZEDALz5EWQSfqN1xVbvao5sGXWoLYyrgzLPfoKmtnqtgdXQdZ0SmFyaogDk298xCY7yBF5mSP_hGdmTxY3IkM62aAUaM1jVvgOluRVc_nuFySiL6_Lp8pu1eUYrhwA",
       "required": true
     },
     "UPSTREAM_REPO": {
