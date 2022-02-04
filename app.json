@@ -40,22 +40,22 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "mongodb+srv://zerohisoka:kumar123@cluster0.8sg2a.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "value": "mongodb+srv://zerohisoka:kumar123@cluster0.8sg2a.mongodb.net/Cluster0?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "",
+      "value": "BOA HANCOCK",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "",
+      "value": "https://t.me/straydogs",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "",
+      "value": "https://t.me/straydogs",
       "required": false
     },
     "OWNER_ID": {
